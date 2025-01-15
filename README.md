@@ -2,7 +2,7 @@
 - 👀 I'm interested in FPGA Emulation, DevOps, Infrastructure Development, and System Design. I am also designing a coffee machine atm!
 - 🌱 I’m currently a Software Engineering Intern @ arm
 
-- 📫 How to reach me: Message me from LinkedIn
+- 📫 How to reach me: Message me on LinkedIn
 
 <!---
 ege-cavus/ege-cavus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
