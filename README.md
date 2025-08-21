@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ege-cavus
 - 👀 I'm interested in hardware emulation, devops, infrastructure development, and system design.
-- ☕ I'm also designing a coffee machine atm!
 - 🌱 I’m currently a software engineering intern @ arm
 
 - 📫 How to reach me: Message me on linkedin
